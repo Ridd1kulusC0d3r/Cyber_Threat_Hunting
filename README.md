@@ -28,3 +28,10 @@ Desenvolver alertas personalizados e consultas de hunting.
 Depois de criar uma matriz identificando entidades familiares, você poderá direcionar suas áreas de foco. Essa matriz serve como um guia. Em seguida, é importante vincular essas descobertas ao Microsoft Sentinel para aprimorar a capacidade de detecção."
 
 ![image](https://github.com/Ridd1kulusC0d3r/Cyber_Threat_Hunting/assets/142614578/4df1af22-fad4-4d46-8a25-fba18bcee4d5)
+
+## Ref:
+https://pt.slideshare.net/FrodeHommedal/the-cyber-threat-intelligence-matrix
+https://www.threathunting.net/files/framework-for-threat-hunting-whitepaper.pdf
+https://www.linkedin.com/pulse/threat-hunting-using-mitre-attck-matrixframework-christian-otteman/
+https://medium.com/@sqrrldata/the-hunt-matrix-90d8476e8765
+https://www.vectra.ai/blog/achieving-threat-hunting-consistency-with-the-mitre-att-ck-matrix
