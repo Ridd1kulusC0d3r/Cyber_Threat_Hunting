@@ -29,6 +29,9 @@ Depois de criar uma matriz identificando entidades familiares, você poderá dir
 
 ![image](https://github.com/Ridd1kulusC0d3r/Cyber_Threat_Hunting/assets/142614578/4df1af22-fad4-4d46-8a25-fba18bcee4d5)
 
+## Links and Cursos:
+
+
 ## Ref:
 - https://pt.slideshare.net/FrodeHommedal/the-cyber-threat-intelligence-matrix
 - https://www.threathunting.net/files/framework-for-threat-hunting-whitepaper.pdf
