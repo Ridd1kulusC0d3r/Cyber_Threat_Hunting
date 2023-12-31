@@ -6,7 +6,7 @@ Como iniciar no hunting?
 
 Quando se trata de iniciar uma jornada de caça de ameaças, é crucial compreender os dados, adquirir conhecimento prático e saber como fazer pivotamento. Abaixo, destacamos pontos fundamentais para iniciar uma operação de hunting de ameaças.
 
-Para começar a entender as nuances dos seus dados, tirar proveito do seu conhecimento prático e aprender com os seus próprios dados, é importante fazer uma série de perguntas que podem orientar a sua estratégia de hunting:
+Para começar a entender as nuances dos seus dados, tirar proveito do seu conhecimento prático e aprender com os seus próprios dados, é importante fazer uma série de perguntas que podem orientar a sua estratégia de hunting: 
 
 Que tipos de dados podem ser coletados para esclarecer atividades durante o processo de hunting?
 Quais tipos de dados você já possui e quais informações eles contêm?
